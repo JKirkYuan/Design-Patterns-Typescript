@@ -9,6 +9,7 @@ For the Decorator Pattern, we will be utilizing the *Design Principle*: Classes 
 **Our goal** is to allow classes to be easily extended to incorporate new behavior without modifying existing code. What do we get if we accomplish this?
 
 In the example, we will be decorating a beverage with condiments.
+
 So if the customer wants **Dark Roast** with *Mocha* and *Whip*.
 
 Here are the steps
