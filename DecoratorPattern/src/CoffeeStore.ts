@@ -9,4 +9,4 @@ console.log(beverage.getDescription());
 beverage = new Mocha(beverage);
 console.log(beverage.getDescription());
 beverage = new Whip(beverage);
-console.log(beverage.getDescription());
+console.log(beverage.getDescription() + " " + beverage.cost());
