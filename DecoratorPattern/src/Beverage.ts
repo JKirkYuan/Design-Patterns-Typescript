@@ -1,4 +1,4 @@
-abstract class Beverage {
+export abstract class Beverage {
 
     public description: string;
 

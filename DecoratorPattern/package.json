@@ -1,0 +1,19 @@
+{
+  "name": "DecoratorPattern",
+  "version": "1.0.0",
+  "description": "Program that showcases the Decorator Pattern",
+  "main": "build/CoffeeStore.js",
+  "author": "Kirk Yuan",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/CoffeeStore.js",
+    "test": "mocha build/test/BeverageTest.js"
+  },
+  "dependencies": {
+    "@types/chai": "^4.1.3",
+    "@types/mocha": "^5.2.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
