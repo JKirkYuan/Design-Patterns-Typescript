@@ -1,0 +1,19 @@
+{
+  "name": "ObserverPattern",
+  "version": "1.0.0",
+  "description": "Observer Pattern in Typescript",
+  "main": "build/WeatherStation.js",
+  "author": "Kirk Yuan",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/WeatherStation.js",
+    "test": "mocha build/test/WeatherStationTest.js"
+  },
+  "dependencies": {
+    "@types/chai": "^4.1.3",
+    "@types/mocha": "^5.2.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}

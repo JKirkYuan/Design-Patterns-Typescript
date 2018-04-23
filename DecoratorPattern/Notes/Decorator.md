@@ -25,7 +25,15 @@ Here's a visual to help you understand.
 
 ## Build & Run Instructions
 
-To build the program, go inside the DecoratorPattern directory, then run command to build
+To build the program, go inside the DecoratorPattern directory.
+
+Install dependencies
+
+```
+yarn install
+```
+
+Build typescript
 
 ```
 yarn run build

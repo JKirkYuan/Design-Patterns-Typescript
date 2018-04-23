@@ -8,6 +8,14 @@ class WeatherData implements Subject {
         this.observers = new Array();
     }
 
+    get currentTemp(){
+        return this.temperature;
+    }
+
+    get currentHumidity() {
+        return this.humidity;
+    }
+
     registerObserver(o: Observer) {
         this.observers.push(o);
     }
