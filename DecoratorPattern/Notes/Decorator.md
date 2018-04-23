@@ -22,3 +22,17 @@ Here are the steps
 Here's a visual to help you understand.
 
 ![DecoratorDiagram](DecoratorDiagram.png)
+
+## Build & Run Instructions
+
+To build the program, go inside the DecoratorPattern directory, then run command to build
+
+```
+yarn run build
+```
+
+Run command to start
+
+```
+yarn run start
+```
