@@ -12,7 +12,7 @@ In this program, the WeatherData object updates CurrentConditionsDisplay which r
 
 ## Build & Run Instructions
 
-To build the program, go inside the DecoratorPattern directory.
+To build the program, go inside the ObserverPattern directory.
 
 Install dependencies
 
