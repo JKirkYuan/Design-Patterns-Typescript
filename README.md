@@ -7,4 +7,6 @@ I'm currently learning Typescript and wanted to start by programming some of the
 ## Contents
 [Observer Pattern](ObserverPattern/Notes/Observer.md)
 
-[Decorator Pattern](DecoratorPattern/Notes/Decorator.md) (In Progress)
+[Decorator Pattern](DecoratorPattern/Notes/Decorator.md)
+
+[Factory Pattern](FactoryPattern/Notes/FactoryMethod.md)
