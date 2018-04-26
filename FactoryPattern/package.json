@@ -1,0 +1,11 @@
+{
+  "name": "FactoryPattern",
+  "version": "1.0.0",
+  "description": "Factory Pattern in Typescript",
+  "main": "build/main.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/PizzaMain.js"
+  }
+}
